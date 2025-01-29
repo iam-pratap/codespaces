@@ -1,0 +1,6 @@
+{
+  "image": "ubuntu:latest",
+  "features": {
+    "ghcr.io/devcontainers/features/common-utils:1": {}
+  }
+}
